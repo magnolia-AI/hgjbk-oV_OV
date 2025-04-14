@@ -10,8 +10,8 @@ import Image from 'next/image';
             height={512} 
           />
           <Image 
-            src="https://storage.googleapis.com/magnolia-storage-dev-test-123/images/emraxlcen5/elderly_man_recycling.png" 
-            alt="Elderly Man in Recycling Bin" 
+            src="https://storage.googleapis.com/magnolia-storage-dev-test-123/images/cse9m21pj2/new-young-man-portrait.png" 
+            alt="Stylized Portrait of a Young Man" 
             width={512} 
             height={512} 
           />
